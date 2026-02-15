@@ -1,6 +1,6 @@
 # Hi there, I'm Edith 👋
 
-I am an **IT Professional** passionate about web and android development. I love building functional, user-centric systems and am currently expanding my skills from the web into the mobile space. 
+I am an **IT Professional** passionate about web and android development. I love building functional, user-centric systems and I am currently expanding my skills from the web into the mobile space. 
 
 Currently, I am a **Frontend Expert** and I'm still diving into **Android Development**.
 
