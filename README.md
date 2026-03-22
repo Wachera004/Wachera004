@@ -1,7 +1,7 @@
 # Hi there, I'm Edith 👋
 
 ## 🚀 Professional Profile
-I am an **IT Specialist** and **Frontend Expert** with a passion for building functional, user-centric systems. 
+I am an **IT Specialist**, **Frontend Expert** and **Network Administrator** with a passion for building functional, user-centric systems. 
 
 ## 🛠 Current Interests
 * **Mobile Application Development**
