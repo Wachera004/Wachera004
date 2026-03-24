@@ -24,7 +24,7 @@ I am an **IT Specialist**, **Web developer** and **Network Administrator** with 
 * **Open Source:** Contributing to projects that solve real-world problems.
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wachera004&theme=tokyonight)
-
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 <!--
 **Wachera004/Wachera004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
