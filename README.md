@@ -6,6 +6,7 @@ I am an **IT Specialist**, **Web developer** and **Network Administrator** with 
 ## 🛠 Current Interests
 * **Mobile Application Development**
 * **Network Infrastructure**
+*  **Machine learning**
 
 ## 💻 Tech Stack
 
